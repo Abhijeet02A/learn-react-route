@@ -1,5 +1,6 @@
 const ErrorPage = () => {
-    return <h3>Error Occured</h3>
+    return <main>
+<h3>Error Occured</h3>
+</main>
 }
-
 export default ErrorPage;
