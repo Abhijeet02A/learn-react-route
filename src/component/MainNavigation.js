@@ -17,7 +17,7 @@ const MainNavigation = () => {
              </NavLink>
            </li>
            <li>
-             <NavLink to="/products" 
+             <NavLink to="products" 
              className={({isActive}) => 
              isActive ? classes.active : undefined
            }
